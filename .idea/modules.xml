@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/br.com.filter.sorted.map.reduce.lambda/br.com.filter.sorted.map.reduce.lambda.iml" filepath="$PROJECT_DIR$/br.com.filter.sorted.map.reduce.lambda/br.com.filter.sorted.map.reduce.lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/filter-sorted-map-reduce-lambda.iml" filepath="$PROJECT_DIR$/.idea/filter-sorted-map-reduce-lambda.iml" />
+    </modules>
+  </component>
+</project>
